@@ -16,3 +16,6 @@ Devolvido
 ````
 
 Administradora = Marca o estado do pacote (pedido)
+
+Diargama de Classes:  
+![Diagrama](diagrama.png)
